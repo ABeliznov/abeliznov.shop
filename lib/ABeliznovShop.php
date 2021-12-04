@@ -23,6 +23,7 @@ Loader::IncludeModule('catalog');
 Loader::IncludeModule('sale');
 
 
+
 class Catalog{
     public static $currentFuser = null;
 
